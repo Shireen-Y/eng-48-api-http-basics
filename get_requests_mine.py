@@ -29,3 +29,13 @@ def get_longitude():
     print('Your longitude is:', dictionary_response['result']['longitude'])
     return ''
 print(get_longitude())
+
+def get_nuts():
+    print('Your nut is:', dictionary_response['result']['nuts'])
+    return ''
+print(get_nuts())
+
+def get_admin_ward():
+    print('Your admin ward is:', dictionary_response['result']['admin_ward'])
+    return ''
+print(get_admin_ward())
