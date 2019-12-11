@@ -8,3 +8,9 @@
 - JSON Vs XML (very very briefly)
 Examples of API services and growth via API
 - API in finance, work, telecommunications, data, ...
+
+# HTTP Codes
+- 200 --> OK
+- 300 --> redirect/more than one response
+- 400 --> page not found/wrong path
+- 500 --> internal error
